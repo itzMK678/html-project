@@ -19,7 +19,7 @@ width: 100px;
 display: flex;}
 
 .logo{
-    background-image: url('/logo.png');
+    background-image: url('./logo.png');
     background-size:cover;
     background-repeat:no-repeat;
     width: 200px;
